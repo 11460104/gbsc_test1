@@ -8,7 +8,6 @@ stock = ["1101","2330","1102"]
 	for i in range(len(stock)): # 迴圈依序爬股價
 
 	    # 現在處理的股票
-
 	    stockid = stock[i]
 
 	    # 網址塞入股票編號
